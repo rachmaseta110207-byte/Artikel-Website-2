@@ -157,7 +157,7 @@
 </div>
 
 <div class="social">
-    <a href="https://wa.me/628xxxxxxxxxx?text=Halo%20saya%20tertarik%20dengan%20profil%20anda" class="wa" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    <a href="087858016534" class="wa" target="_blank"><i class="fab fa-whatsapp"></i></a>
     <a href="#" class="ig" target="_blank"><i class="fab fa-instagram"></i></a>
     <a href="#" class="tt" target="_blank"><i class="fab fa-tiktok"></i></a>
     <a href="#" class="fb" target="_blank"><i class="fab fa-facebook-f"></i></a>
